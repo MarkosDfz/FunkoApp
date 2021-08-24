@@ -2,7 +2,7 @@
 
 Aplicación realizada en **Flutter** para IOS y Android.
 
-Se usa **Provider** como manejador del estado y se conecta a la api para obtener la información de la tienda.
+Se usa **Provider** como manejador del estado y se conecta a un api para obtener la información de la tienda.
 
 **Para compilar el proyecto:**
 
