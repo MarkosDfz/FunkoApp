@@ -1,16 +1,22 @@
-# coffishop
+# Funko Store
 
-A new Flutter project.
+Aplicación realizada en **Flutter** para IOS y Android.
 
-## Getting Started
+Se usa **Provider** como manejador del estado y se conecta a la api para obtener la información de la tienda.
 
-This project is a starting point for a Flutter application.
+**Para compilar el proyecto:**
 
-A few resources to get you started if this is your first Flutter project:
+ 1. Tener Flutter en tu equipo, si no lo tienes lo puedes conseguir [aquí](https://flutter.dev/)
+ 2. Clonar el repositorio
+ 3. `cd` en la carpeta del repositorio
+ 4. Correr `flutter run-android` o `flutter run-ios` para compilar el proyecto
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Cosas a considerar:**
+- Por favor tenga en cuenta que se requiere una **Mac** con XCode para compilar el proyecto para **iOS**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Resultado**
+
+| ![Dfz-Code](https://raw.githubusercontent.com/MarkosDfz/FunkoApp/master/resources/funko_app.gif) | <img src="https://raw.githubusercontent.com/MarkosDfz/FunkoApp/master/resources/1.png" height="520"/> |
+|--|--|
+| <img src="https://raw.githubusercontent.com/MarkosDfz/FunkoApp/master/resources/2.png" height="520"/> |  <img src="https://raw.githubusercontent.com/MarkosDfz/FunkoApp/master/resources/3.png" height="520"/>|
+| <img src="https://raw.githubusercontent.com/MarkosDfz/FunkoApp/master/resources/4.png" height="520"/> |  <img src="https://raw.githubusercontent.com/MarkosDfz/FunkoApp/master/resources/5.png" height="520"/>|
