@@ -1,6 +1,6 @@
 # Funko Store
 
-Aplicación realizada en **Flutter** para IOS y Android.
+Aplicación realizada en **Flutter** para IOS y Android de una tienda de Funkos donde podemos buscar productos y agregarlos a favoritos o al carrito de compras.
 
 Se usa **Provider** como manejador del estado y se conecta a un api para obtener la información de la tienda.
 
